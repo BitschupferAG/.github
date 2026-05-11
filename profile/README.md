@@ -1,30 +1,43 @@
 # BitschupferAG
 
-Willkommen auf dem GitHub-Profil von **BitschupferAG**.
+Moin! Wir sind **BitschupferAG** – wir shippen Software, trinken zu viel Kaffee und nennen es dann „Full‑Stack“. ☕️
 
-## Was wir machen
+Kurz gesagt: **Wir machen alles** – von Frontend bis Backend, von „läuft lokal“ bis „läuft in Prod (hoffentlich)“.
 
-Wir bauen und betreiben Software mit Fokus auf:
+## Was wir so treiben
 
-- **Qualität & Automatisierung** (CI/CD, Tests, Linting)
-- **Developer Experience** (Templates, Guidelines, Wiederverwendbarkeit)
-- **Security & Compliance** (Policies, Secret Scanning, CodeQL)
+- Wir bauen Produkte & Plattformen, die nicht nur *irgendwie* funktionieren, sondern auch Spaß machen.
+- Wir automatisieren gern alles, was man automatisieren kann (und manchmal auch Dinge, die man besser lassen sollte).
+- Wir mögen saubere Repos: gute PRs, klare Standards, reproduzierbare Builds.
 
-> Dieses Repository (`BitschupferAG/.github`) enthält organisationsweite Standards wie Issue-/PR-Templates, Workflows und Community-Dateien.
+> Dieses Repo (`BitschupferAG/.github`) ist unser Werkzeugkasten für die Orga: Workflows, Templates, Policies & Co.
+
+## Tech‑Stack (aka „Ja.“)
+
+**Frontend**
+- Svelte / SvelteKit
+- TypeScript
+
+**Backend**
+- Node.js (APIs, Services, Jobs)
+- C# / .NET (APIs, Services – stabil wie ein Fels)
+
+**DevOps / Qualität**
+- GitHub Actions (CI/CD)
+- Tests, Linting, Formatting (damit niemand weint)
+- Security Scans (damit niemand *anders* weint)
 
 ## Repositories & Beiträge
 
-- Schau dir unsere Repositories an: https://github.com/BitschupferAG
-- Du möchtest beitragen? Öffne ein Issue oder einen Pull Request in dem passenden Repo.
+- Unsere Repositories: https://github.com/BitschupferAG
+- Du willst mitmachen?
+  - Mach ein Issue auf (Feature/Bug/Idee)
+  - Oder schick direkt einen PR – wir beißen nicht (nur in Ausnahmefällen)
 
 ## Kommunikation
 
-- Fragen/Ideen: Bitte ein **Issue** im entsprechenden Repository erstellen.
-- Security-Themen: Nutze einen geeigneten privaten Kanal (z. B. Security Advisory), falls vorhanden.
-
-## Status
-
-- Standards und Templates werden fortlaufend verbessert.
+- Fragen/Ideen: Am liebsten als **Issue** im passenden Repo.
+- Security-Themen: Bitte verantwortungsvoll melden (z. B. via Security Advisory), falls verfügbar.
 
 ---
 
